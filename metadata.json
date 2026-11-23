@@ -1,0 +1,6 @@
+{
+  "name": "ByteShift Rally",
+  "description": "An interactive 2D highway car game where you dodge traffic, collect data cores, and solve IT quiz checkpoints to unlock each new level.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
